@@ -229,6 +229,8 @@ main { overflow: clip; }
 
 .session-menu { padding-top: 24px; padding-bottom: 88px; }
 .price-list { padding-top: 4px; }
+.continuing-session { margin-top: 48px; padding-top: 40px; border-top: 1px solid currentColor; }
+.continuing-session h3 { font-size: 16px; font-weight: 400; letter-spacing: 0.08em; }
 .price__name { color: var(--muted); }
 .price { display: flex; align-items: baseline; flex-wrap: wrap; gap: 12px; padding: 24px 0 38px; color: var(--ink); }
 .price__amount { font-family: Georgia, "Times New Roman", serif; font-size: clamp(44px, 4.5vw, 60px); font-weight: 400; line-height: 1.2; letter-spacing: -0.03em; font-variant-numeric: lining-nums; }
